@@ -2,11 +2,11 @@
 console.log("MAYONESA SEGUN YO");
 
 function hacer_mayonesa() {
-    console.log("Romper un huevo y meterlo en un vaso ondo");
-    console.log("Meter 2 tazas de aceite de oliva o girasol");
-    console.log("Agregar pizcas de sal al gusto");
-    // 2 gotas de limon !  
-    console.log("Agregar vinagre media cucharadita.");
+    console.log("Romper 2 huevo y meterlo en un vaso hondo");
+    console.log("Meter 1 tazas de aceite de oliva o girasol");
+    console.log("Agregar una pizca de sal");
+    // 4 gotas de limon !  
+    console.log("Agregar vinagre una cucharadita.");
     console.log("Introducir la licuadora electrica o manual dentro de la mezcla");
     console.log("Empezar a batir todo hasta emulsionar");
     console.log("Mover de arriba hacia abajo para sacarle aire");
