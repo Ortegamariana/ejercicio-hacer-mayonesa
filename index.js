@@ -1,4 +1,7 @@
-var  mayonesa_casera  =  new  Mayonesa_casera ( "1 huevo, 2 tazas de aceite, 2 gotas de limón, sal al gusto." ) ; {
+module.exports = classMayonesa
+ const Mayonesa = require('.Mayonesa');
+
+ var  mayonesa  =  new  Mayonesa ( 1 , 2, 2, 0 ) ; {
 }
-consola . log ( mayonesa_casera . ingredientes ) ;
+consola . log ( mayonesa . ingredientes ) ;
 }
